@@ -1,5 +1,5 @@
 CREATE TABLE bears (
-    id IN PRIMARY KEY,
+    id INT PRIMARY KEY,
     name TEXT,
     age INT,
     sex TEXT,
